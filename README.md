@@ -1,1 +1,3 @@
 A RayCaster implemented via Java Swing. The approach is not typical from what you might typically see from a RayCaster. This is because I had to work around Java's graphics and drawing rectangles to the screen. Everything else resembles a normal raycaster...
+
+![image](https://github.com/gawwkin/RayCaster/assets/162461163/bda7eb20-0879-4d8e-a25c-a570d285c706)
